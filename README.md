@@ -14,11 +14,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/irfanferdoussiam" target="_blank" rel="noopener">
+  <a href="https://github.com/IrfanTech-X" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=irfanferdoussiam&label=Profile+Views&color=0e75b6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=IrfanTech-X&label=Profile+Views&color=0e75b6" alt="Profile Views" />
 </p>
 
 ---
