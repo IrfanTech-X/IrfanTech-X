@@ -23,7 +23,7 @@
 
 ### 🛠️ Tech Stack
 
-```markdown
+
 💻 Languages: Java, C, HTML, CSS, JavaScript, SQL  
 🧰 Tools: NetBeans, Git, phpMyAdmin, Canva  
 🗃️ Database: MySQL  
