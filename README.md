@@ -14,47 +14,80 @@
 ---
 
 ### 🧑‍💻 About Me
-- 💡 Building **IntruSense**, a Network Intrusion Detection System using advanced algorithms
-- 🌱 Exploring Java, Algorithms, MySQL, and Web Technologies
-- 🤝 Passionate about solving real-world problems through code
-- 🗣️ Loves public speaking, tech events, and working with diverse teams
+- 🎓 CSE undergraduate with strong foundations in Java, Data Structures & Algorithms, and MySQL  
+- 🔐 Currently exploring the field of Cybersecurity and actively improving problem-solving skills
+- 💼 Student Activity Coordinator at IEEE Computer Society – GUB Chapter
+- 💰 Treasurer at BASIS Students’ Forum – GUB Chapter
+- 🛠️ Eager to experiment with new technologies while mastering core university courses
+- 🌱 Passionate about continuous learning, teamwork, and contributing to impactful tech communities
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack  
 
+**💻 Languages**  
+`Java` &nbsp;|&nbsp; `C` &nbsp;|&nbsp; `HTML` &nbsp;|&nbsp; `CSS` &nbsp;|&nbsp; `JavaScript` &nbsp;|&nbsp; `PHP` &nbsp;|&nbsp; `SQL`
 
-💻 Languages: Java, C, HTML, CSS, JavaScript, SQL  
-🧰 Tools: NetBeans, Git, phpMyAdmin, Canva  
-🗃️ Database: MySQL  
-🌐 Others: Problem Solving, Event Management, Leadership
-🚀 Featured Projects
-💼 Project	🔍 Description	💻 Tools
-IntruSense	Real-time NIDS using BFS, DFS, Dijkstra	Java, Algorithms
-Food Ordering System	Manages orders & inventory for restaurants	PHP, MySQL
-AquaSense	Smart water monitoring for sustainability	Digital Logic
-Eyes for Blind	Assistive tool using sensors & circuits	Embedded Systems
+**🧰 Tools & IDEs**  
+`NetBeans` &nbsp;|&nbsp; `Visual Studio Code` &nbsp;|&nbsp; `CodeBlocks` &nbsp;|&nbsp; `phpMyAdmin` &nbsp;|&nbsp; `XAMPP` &nbsp;|&nbsp; `Git` &nbsp;|&nbsp; `Canva`
 
-🧠 Explore my repositories »
+**🗃️ Database**  
+`MySQL`
 
-🏆 Achievements
-🏅 Vice Chancellor’s Certificate (GPA 3.90+)
+**🌐 Others**  
+`Problem Solving` &nbsp;|&nbsp; `Event Management` &nbsp;|&nbsp; `Leadership` &nbsp;|&nbsp; `Team Collaboration`
 
-🏅 4× Dean’s Certificates (GPA 3.80+)
+---
 
-🎓 IELTS 6.0 | 💰 University Scholarship
+### 🚀 Featured Projects
 
-🎤 Organized IT Olympiad – CSE Carnival 2024
+| 💼 Project | 📋 Description | 🛠️ Tech Used | 🔗 Links |
+|-----------|----------------|--------------|-----------|
+| **🔐 IntruSense** | Real-time Network Intrusion Detection using BFS, DFS, Dijkstra | `Java`, `Graph Algorithms` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/irfanferdoussiam/intrusense) |
+| **🍽️ Food Ordering System** | Dynamic restaurant order & inventory manager | `PHP`, `MySQL`, `HTML/CSS` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/irfanferdoussiam/online-food-ordering-system) |
+| **💧 AquaSense** | Smart water monitoring (Digital Logic Project) | `Digital Logic`, `Sensor Simulation` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/irfanferdoussiam/aquasense) |
+| **🦯 Eyes for Blind** | Navigation system for visually impaired using sensors | `Embedded Systems`, `EEE Components` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/irfanferdoussiam/eyes-for-blind) |
 
-🎓 Attended AI & Tech Career Seminars
+> ✨ _More on my [GitHub repositories »](https://github.com/IrfanTech-X?tab=repositories)_
+---
+
+🧠 Explore my [repositories »](https://github.com/irfanferdoussiam?tab=repositories)
+
+---
+
+### 🏆 Highlights & Involvement
+
+🎤 Organized the **IT Olympiad** at CSE Carnival 2024, handling coordination, outreach, and execution  
+🌐 Actively participate in **tech seminars**, including sessions on AI, cybersecurity, and career development  
+🛠️ Enthusiastic about exploring emerging technologies and hands-on learning beyond the classroom  
+🤝 Love collaborating in team-based environments and contributing to impactful initiatives
+---
 
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IrfanTech-X&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanTech-X&layout=compact&theme=tokyonight" width="48%" /> </p>
+<p align="center">
+
+  <a href="https://github.com/IrfanTech-X" target="_blank" rel="noopener">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=IrfanTech-X&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true&bg_color=0d1117&icon_color=ff79c6&text_color=c9d1d9&line_height=27&border_radius=15"
+      alt="IrfanTech-X's GitHub Stats" width="450" />
+  </a>
+
+  <a href="https://github.com/IrfanTech-X?tab=repositories" target="_blank" rel="noopener">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanTech-X&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&icon_color=ff79c6&text_color=c9d1d9&border_radius=15"
+      alt="Top Languages" width="320" />
+  </a>
+
+</p>
+
 🤝 Let’s Connect
+
 📧 Email: siamtalukdar3@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/yourprofile
+🔗 LinkedIn: [Irfan Ferdous Siam](https://linkedin.com/in/irfan-ferdous-siam)
 
-📱 Phone: 01843088044
+🐙 GitHub: [IrfanTech-X](https://github.com/IrfanTech-X?tab=followers)
 
-<p align="center"><i>“Write code that solves problems. Build systems that create impact.”</i></p> 
+---
+
+<h1> <p align="center"><i>“Write code that solves problems. Build systems that create impact.”</i></p> </h1>
