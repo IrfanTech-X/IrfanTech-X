@@ -49,7 +49,7 @@ Eyes for Blind	Assistive tool using sensors & circuits	Embedded Systems
 🎓 Attended AI & Tech Career Seminars
 
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=irfanferdoussiam&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanferdoussiam&layout=compact&theme=tokyonight" width="48%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IrfanTech-X&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanTech-X&layout=compact&theme=tokyonight" width="48%" /> </p>
 🤝 Let’s Connect
 📧 Email: siamtalukdar3@gmail.com
 
@@ -57,4 +57,4 @@ Eyes for Blind	Assistive tool using sensors & circuits	Embedded Systems
 
 📱 Phone: 01843088044
 
-<p align="center"><i>“Write code that solves problems. Build systems that create impact.”</i></p> ```
+<p align="center"><i>“Write code that solves problems. Build systems that create impact.”</i></p> 
