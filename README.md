@@ -54,12 +54,12 @@
 
 | 💼 Project             | 📋 Description                               | 🛠️ Tech Used           | 🔗 Links                                                                                                                                              |
 |-----------------------|---------------------------------------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **🔐 IntruSense**      | Real-time Network Intrusion Detection System | `Java`, `Graph Algorithms` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/irfanferdoussiam/intrusense)        |
-| **🍽️ Food Ordering System** | Restaurant order & inventory management       | `PHP`, `MySQL`, `HTML/CSS` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/irfanferdoussiam/online-food-ordering-system) |
-| **💧 AquaSense**       | Smart water monitoring (Digital Logic Project) | `Digital Logic`, `Sensor Simulation` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/irfanferdoussiam/aquasense)            |
-| **🦯 Eyes for Blind**  | Navigation system for visually impaired      | `Embedded Systems`, `EEE Components` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/irfanferdoussiam/eyes-for-blind)        |
+| **🔐 IntruSense**      | Real-time Network Intrusion Detection System | `Java`, `Graph Algorithms` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/intrusense)        |
+| **🍽️ Food Ordering System** | Restaurant order & inventory management       | `PHP`, `MySQL`, `HTML/CSS` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/online-food-ordering-system) |
+| **💧 AquaSense**       | Smart water monitoring (Digital Logic Project) | `Digital Logic`, `Sensor Simulation` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/aquasense)            |
+| **🦯 Eyes for Blind**  | Navigation system for visually impaired      | `Embedded Systems`, `EEE Components` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/eyes-for-blind)        |
 
-> ✨ _More on my [GitHub repositories »](https://github.com/irfanferdoussiam?tab=repositories)_
+> ✨ _More on my [GitHub repositories »](https://github.com/IrfanTech-X?tab=repositories)_
 
 ---
 
