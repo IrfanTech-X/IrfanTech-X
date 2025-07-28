@@ -79,15 +79,23 @@
 
   <a href="https://github.com/IrfanTech-X" target="_blank" rel="noopener">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=IrfanTech-X&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true&bg_color=0d1117&icon_color=ff79c6&text_color=c9d1d9&line_height=27&border_radius=15"
+      src="https://github-readme-stats.vercel.app/api?username=IrfanTech-X&show_icons=true&theme=radical&count_private=true&hide_title=false&hide_border=false&bg_color=0d1117&icon_color=ff79c6&text_color=c9d1d9&line_height=30&border_radius=15"
       alt="Irfan Ferdous Siam's GitHub Stats" width="450" />
   </a>
 
-  <a href="https://github.com/IrfanTech-X?tab=repositories" target="_blank" rel="noopener">
+  <a href="https://github.com/IrfanTech-X" target="_blank" rel="noopener">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanTech-X&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&icon_color=ff79c6&text_color=c9d1d9&border_radius=15"
-      alt="Top Languages" width="320" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanTech-X&layout=compact&theme=radical&hide_border=false&bg_color=0d1117&icon_color=ff79c6&text_color=c9d1d9&border_radius=15"
+      alt="Top Languages" width="360" />
   </a>
+  <br><br>
+
+  <a href="https://github.com/IrfanTech-X" target="_blank" rel="noopener">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=IrfanTech-X&theme=radical&hide_border=false&border_radius=10"
+      alt="GitHub Streak" height="150px" />
+  </a>
+
 
 </p>
 
