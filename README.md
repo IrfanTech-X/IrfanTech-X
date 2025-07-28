@@ -1,9 +1,12 @@
-<h1 align="center">👋 Hi, I'm Irfan Ferdous Siam</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=2000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Irfan+Ferdous+Siam" alt="Typing SVG" />
+</p>
 
 <p align="center">
   🎓 CSE Undergraduate | 💻 Aspiring Software Engineer | 🛡️ Cybersecurity Enthusiast<br>
   📍 Green University of Bangladesh
 </p>
+
 
 <p align="center">
   <a href="mailto:siamtalukdar3@gmail.com" target="_blank" rel="noopener">
