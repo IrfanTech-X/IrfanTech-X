@@ -56,14 +56,15 @@
 
 ### 🚀 Featured Projects
 
-| 💼 Project             | 📋 Description                               | 🛠️ Tech Used           | 🔗 Links                                                                                                                                              |
-|-----------------------|---------------------------------------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **🔐 IntruSense**      | Real-time Network Intrusion Detection System | `Java`, `Graph Algorithms` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/intrusense)        |
-| **🍽️ Food Ordering System** | Restaurant order & inventory management       | `PHP`, `MySQL`, `HTML/CSS` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/BiteOnline) |
-| **🗣️ GreenU SpeakUp** | Student engagement and communication platform | `Web`, `PHP`, `JavaScript` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/GreenU-SpeakUp)         |
-| **💻 MiniDOS**         | Lightweight operating system simulator       | `C`, `Systems Programming` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/MiniDOS)               |
+| 💼 Project               | 📋 Description                                 | 🛠️ Technologies Used         | 🔗 Repository                                                                                                                                        |
+|-------------------------|-----------------------------------------------|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **🔐 IntruSense**        | Real-time Network Intrusion Detection System  | `Java`, `Graph Algorithms`   | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/intrusense)          |
+| **🍽️ Food Ordering System** | Restaurant order & inventory management        | `PHP`, `MySQL`, `HTML/CSS`   | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/BiteOnline)          |
+| **🗣️ GreenU SpeakUp**   | Student engagement & communication platform   | `Web`, `PHP`, `JavaScript`   | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/GreenU-SpeakUp)       |
+| **💻 MiniDOS**           | Lightweight operating system simulator         | `C`, `Systems Programming`   | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/MiniDOS)             |
 
-> ✨ _More on my [GitHub repositories »](https://github.com/IrfanTech-X?tab=repositories)_
+
+> ✨ Explore more projects on my [GitHub repositories »](https://github.com/IrfanTech-X?tab=repositories)
 
 ---
 
