@@ -59,13 +59,14 @@
 | 💼 Project             | 📋 Description                               | 🛠️ Tech Used           | 🔗 Links                                                                                                                                              |
 |-----------------------|---------------------------------------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **🔐 IntruSense**      | Real-time Network Intrusion Detection System | `Java`, `Graph Algorithms` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/intrusense)        |
-| **🍽️ Food Ordering System** | Restaurant order & inventory management       | `PHP`, `MySQL`, `HTML/CSS` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/online-food-ordering-system) |
-| **💧 AquaSense**       | Smart water monitoring (Digital Logic Project) | `Digital Logic`, `Sensor Simulation` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/aquasense)            |
-| **🦯 Eyes for Blind**  | Navigation system for visually impaired      | `Embedded Systems`, `EEE Components` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/eyes-for-blind)        |
+| **🍽️ Food Ordering System** | Restaurant order & inventory management       | `PHP`, `MySQL`, `HTML/CSS` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/BiteOnline) |
+| **🗣️ GreenU SpeakUp** | Student engagement and communication platform | `Web`, `PHP`, `JavaScript` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/GreenU-SpeakUp)         |
+| **💻 MiniDOS**         | Lightweight operating system simulator       | `C`, `Systems Programming` | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/MiniDOS)               |
 
 > ✨ _More on my [GitHub repositories »](https://github.com/IrfanTech-X?tab=repositories)_
 
 ---
+
 
 ### 🏆 Highlights & Involvement
 
