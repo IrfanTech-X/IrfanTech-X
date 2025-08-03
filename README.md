@@ -1,26 +1,30 @@
+<!-- ✨ Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Irfan%20Ferdous%20Siam&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
+</p>
+<!-- 🖊️ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=2000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Irfan+Ferdous+Siam" alt="Typing SVG" />
 </p>
 
+
+<!-- 🎓 Intro -->
 <p align="center">
-  🎓 CSE Undergraduate | 💻 Aspiring Software Engineer | 🛡️ Cybersecurity Enthusiast<br>
-  📍 Green University of Bangladesh
+  🎓 <b>CSE Undergraduate</b> at Green University of Bangladesh<br>
+  💻 Passionate about <b>Software Development</b> | 🛡️ Enthusiast of <b>Cybersecurity</b> | 🌟 Creator of <b>Impactful Tech</b>
 </p>
 
-
+<!-- 🔗 Social Links & Stats -->
 <p align="center">
   <a href="mailto:siamtalukdar3@gmail.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/irfan-ferdous-siam" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/IrfanTech-X" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=IrfanTech-X&label=Profile+Views&color=0e75b6" alt="Profile Views" />
 </p>
 
@@ -28,13 +32,13 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 CSE undergraduate with strong foundations in Java, Data Structures & Algorithms, and MySQL  
-- 🔐 Exploring Cybersecurity and honing problem-solving skills
+- 🎓 CSE undergraduate with strong foundations in `Java`, `Data Structures`, and `MySQL`
+- 🔐 Exploring **Cybersecurity** and honing **problem-solving** skills
 - 👨‍🏫 Student Mentor at Green University of Bangladesh
-- 💼 Student Activity Coordinator at IEEE Computer Society – GUB Chapter  
-- 💰 Treasurer at BASIS Students’ Forum – GUB Chapter  
-- 🛠️ Passionate about experimenting with new technologies while excelling in university courses  
-- 🌱 Committed to continuous learning, teamwork, and contributing to impactful tech communities  
+- 💼 Student Activity Coordinator at IEEE Computer Society – GUB Chapter
+- 💰 Treasurer at BASIS Students’ Forum – GUB Chapter
+- ⚡ Passionate about new tech, leadership, and building impactful solutions
+- 🌱 Lifelong learner, always improving through teamwork and collaboration
 
 ---
 
@@ -59,22 +63,20 @@
 | 💼 Project               | 📋 Description                                 | 🛠️ Technologies Used         | 🔗 Repository                                                                                                                                        |
 |-------------------------|-----------------------------------------------|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | **🔐 IntruSense**        | Real-time Network Intrusion Detection System  | `Java`, `Graph Algorithms`   | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/intrusense)          |
-| **🍽️ Food Ordering System** | Restaurant order & inventory management        | `PHP`, `MySQL`, `HTML/CSS`   | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/BiteOnline)          |
+| **🍽️ BiteOnline**        | Restaurant order & inventory management        | `PHP`, `MySQL`, `HTML/CSS`   | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/BiteOnline)          |
 | **🗣️ GreenU SpeakUp**   | Student engagement & communication platform   | `Web`, `PHP`, `JavaScript`   | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/GreenU-SpeakUp)       |
 | **💻 MiniDOS**           | Lightweight operating system simulator         | `C`, `Systems Programming`   | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/MiniDOS)             |
 
-
-> ✨ Explore more projects on my [GitHub repositories »](https://github.com/IrfanTech-X?tab=repositories)
+> ✨ Explore more projects in [my GitHub repositories »](https://github.com/IrfanTech-X?tab=repositories)
 
 ---
 
-
 ### 🏆 Highlights & Involvement
 
-- 🎤 Organized the **IT Olympiad** at CSE Carnival 2024 — coordination & outreach  
-- 🌐 Active participant in **tech seminars** on AI, cybersecurity, and career development  
-- 🛠️ Passionate about exploring emerging technologies beyond academics  
-- 🤝 Collaborative team player committed to impactful projects  
+- 🎤 Organized **IT Olympiad** at CSE Carnival 2024 — led logistics & outreach  
+- 🌐 Participated in seminars on **AI**, **cybersecurity**, and **career dev**  
+- 💬 Motivated speaker and **peer mentor** at university forums  
+- 🧠 Constantly pushing boundaries with new ideas and teamwork  
 
 ---
 
@@ -101,21 +103,23 @@
 ### 🤝 Let’s Connect
 
 <p align="center">
-
   <a href="mailto:siamtalukdar3@gmail.com" target="_blank" rel="noopener" title="Email">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a> &nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/irfan-ferdous-siam" target="_blank" rel="noopener" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> &nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
 
   <a href="https://github.com/IrfanTech-X" target="_blank" rel="noopener" title="GitHub">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
 </p>
 
 ---
 
 <h2 align="center"><i>“Write code that solves problems. Build systems that create impact.”</i></h2>
+<!-- 🎯 Footer Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=20&fontColor=ffffff" alt="Footer Banner" />
+</p>
