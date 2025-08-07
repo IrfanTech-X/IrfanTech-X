@@ -105,7 +105,7 @@
 <p align="center">
   <a href="mailto:siamtalukdar3@gmail.com" target="_blank" rel="noopener" title="Email">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; 
 
   <a href="https://linkedin.com/in/irfan-ferdous-siam" target="_blank" rel="noopener" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
