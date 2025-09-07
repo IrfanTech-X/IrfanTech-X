@@ -60,12 +60,12 @@
 
 ### 🚀 Featured Projects
 
-| 💼 Project               | 📋 Description                                 | 🛠️ Technologies Used         | 🔗 Repository                                                                                                                                        |
-|-------------------------|-----------------------------------------------|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **🔐 IntruSense**        | Real-time Network Intrusion Detection System  | `Java`, `Graph Algorithms`   | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/intrusense)          |
-| **🍽️ BiteOnline**        | Restaurant order & inventory management        | `PHP`, `MySQL`, `HTML/CSS`   | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/BiteOnline)          |
+| 💼 Project               | 📋 Description                                 | 🛠️ Technologies Used         | 🔗 Demo / Repository                                                                                                                                |
+|--------------------------|-----------------------------------------------|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **🌐 NetOptima**         | Smart route optimization & network management | `HTML`, `CSS`, `JS`,`API`  | [🌍 Live](https://netoptima.netlify.app) • [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/NetOptima) |
+| **📡 Line Coding Visualizer** | Interactive tool for visualizing line coding schemes | `HTML`,`CSS`,`JS`, `Data Communication Algorithm` | [🌍 Live](https://irfantech-x.github.io/Line_Coding_Visualizer/) • [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/Line-Coding-Visualizer) |
 | **🗣️ GreenU SpeakUp**   | Student engagement & communication platform   | `Web`, `PHP`, `JavaScript`   | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/GreenU-SpeakUp)       |
-| **💻 MiniDOS**           | Lightweight operating system simulator         | `C`, `Systems Programming`   | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/MiniDOS)             |
+| **💻 MiniDOS**           | Lightweight operating system simulator        | `C`, `Systems Programming`   | [![Repo](https://img.shields.io/badge/View--Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/IrfanTech-X/MiniDOS)             |
 
 > ✨ Explore more projects in [my GitHub repositories »](https://github.com/IrfanTech-X?tab=repositories)
 
