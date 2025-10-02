@@ -45,7 +45,7 @@
 ### 🛠️ Tech Stack  
 
 **💻 Languages:**  
-`Java` &nbsp;|&nbsp; `C` &nbsp;|&nbsp; `HTML` &nbsp;|&nbsp; `CSS` &nbsp;|&nbsp; `JavaScript` &nbsp;|&nbsp; `PHP` &nbsp;|&nbsp; `SQL`  
+`Java` &nbsp;|`Python` &nbsp;|&nbsp; `C` &nbsp;|&nbsp; `HTML` &nbsp;|&nbsp; `CSS` &nbsp;|&nbsp; `JavaScript` &nbsp;|&nbsp; `PHP` &nbsp;|&nbsp; `SQL`  
 
 **🧰 Tools & IDEs:**  
 `NetBeans` &nbsp;|&nbsp; `Visual Studio Code` &nbsp;|&nbsp; `CodeBlocks` &nbsp;|&nbsp; `phpMyAdmin` &nbsp;|&nbsp; `XAMPP` &nbsp;|&nbsp; `Git` &nbsp;|&nbsp; `Canva`  
