@@ -32,7 +32,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 CSE undergraduate with strong foundations in `Java`, `Data Structures`, and `MySQL`
+- 🎓 CSE undergraduate with strong foundations in `Java`, `Data Structures`, and `Algorithm`
 - 🔐 Exploring **Cybersecurity** and honing **problem-solving** skills
 - 👨‍🏫 Student Mentor at Green University of Bangladesh
 - 💼 Student Activity Coordinator at IEEE Computer Society – GUB Chapter
