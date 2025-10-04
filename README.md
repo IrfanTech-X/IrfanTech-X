@@ -34,9 +34,9 @@
 
 - 🎓 CSE undergraduate with strong foundations in `Java`, `Data Structures` and `Algorithm`
 - 🔐 Exploring **Cybersecurity** and honing **problem-solving** skills
-- 👨‍🏫 Student Mentor at Green University of Bangladesh
-- 💼 Student Activity Coordinator at IEEE Computer Society – GUB Chapter
-- 💰 Treasurer at BASIS Students’ Forum – GUB Chapter
+- 👨‍🏫 **Student Mentor** at *Green University of Bangladesh*
+- 💼 **Student Activity Coordinator** at *IEEE Computer Society GUB Chapter*
+- 💰 **Treasurer** at *BASIS Students’ Forum GUB Chapter*
 - ⚡ Passionate about new tech, leadership, and building impactful solutions
 - 🌱 Lifelong learner, always improving through teamwork and collaboration
 
