@@ -126,7 +126,7 @@
 ---
 
 <h2 align="center"><i>“Write code that solves problems. Build systems that create impact.”</i></h2>
-<!-- 🎯 Footer Animation -->
+<!-- 🎯 Footer Animation --> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=20&fontColor=ffffff" alt="Footer Banner" />
 </p>
