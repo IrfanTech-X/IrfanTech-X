@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Irfan%20Ferdous%20Siam&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
 </p>
-<!-- 🖊️ Typing Animation -->
+<!-- 🖊️ Typing Animation  -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=2000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Irfan+Ferdous+Siam" alt="Typing SVG" />
 </p>
