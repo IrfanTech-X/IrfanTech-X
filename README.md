@@ -98,6 +98,7 @@
     height="150" />
 </p>
 
+
 ---
 ### ⚡ GitHub Metrics
 <p align="center">
@@ -105,7 +106,16 @@
 </p>
 
 ---
+### 📝 Languages I Use
 
+Here are all the programming languages I have used across my GitHub repositories, visualized by usage:
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanTech-X&theme=radical&hide_border=false&langs_count=100" />
+</p>
+
+
+---
 
 ### 🤝 Let’s Connect
 
