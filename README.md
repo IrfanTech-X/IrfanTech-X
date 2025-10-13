@@ -54,7 +54,7 @@
 `MySQL`  
 
 **🌐 Others:**  
-`Problem Solving` &nbsp;|&nbsp; `Event Management` &nbsp;|&nbsp; `Leadership` &nbsp;|&nbsp; `Team Collaboration`  
+`Problem Solving` &nbsp;|&nbsp; `Event Management` &nbsp;|&nbsp; `Leadership` &nbsp;|&nbsp; `Team Collaboration` |&nbsp; `Graphic Design`
 
 ---
 
