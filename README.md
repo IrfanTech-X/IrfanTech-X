@@ -32,8 +32,7 @@
 
 ### 🧑‍💻 About Me
 
-**🎓 CSE Undergraduate** with a strong foundation in **Java, Data Structures & Algorithms**.  
-**🔐 Exploring Cybersecurity** while sharpening problem-solving skills through competitive programming and real-world projects.
+**🎓 CSE Undergraduate** with a strong foundation in **Java, Data Structures & Algorithms**. Exploring **Cybersecurity** while sharpening problem-solving skills through competitive programming and real-world projects.
 
 **👥 Leadership Roles:**
 - **👨‍🏫 Student Mentor**, Green University of Bangladesh
