@@ -79,7 +79,8 @@
 - 🎤 Organized **IT Olympiad** at CSE Carnival 2024 — led logistics & outreach  
 - 🌐 Participated in seminars on **AI**, **cybersecurity**, and **career dev**  
 - 💬 Motivated speaker and **peer mentor** at university forums  
-- 🧠 Constantly pushing boundaries with new ideas and teamwork  
+- 🧠 Constantly pushing boundaries with new ideas and teamwork
+- 🚀 Always eager to **learn, explore, and innovate** through teamwork and creative problem-solving  
 
 ---
 
