@@ -76,7 +76,7 @@
 
 ### 🏆 Highlights & Involvement
 
-- 🎯 Organized several seminars, webinars, and Olympiads, and actively engaged in various club activities  
+- 🎯 Organized several seminars, webinars, Workshops and Olympiads, and actively engaged in various club activities  
 - 🌐 Participated in seminars on **AI**, **cybersecurity**, and **career dev**  
 - 💬 Motivated speaker and **peer mentor** at university forums  
 - 🧠 Constantly pushing boundaries with new ideas and teamwork
