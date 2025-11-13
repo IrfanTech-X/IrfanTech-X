@@ -36,7 +36,7 @@
 
 **👥 Leadership Roles:**
 - **👨‍🏫 Student Mentor**, Green University of Bangladesh
-- **📋 Student Activity Coordinator**, IEEE Computer Society GUB Chapter
+- **📋 Student Activity Coordinator**, IEEE Computer Society Student Branch Chapter GUB
 - **💰 Treasurer**, BASIS Students' Forum GUB Chapter
 
 **⚡ Passionate** about emerging technologies, team leadership, and delivering scalable solutions.  
