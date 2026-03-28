@@ -11,7 +11,7 @@
 
 <!-- 🎓 Intro -->
 <p align="center">
-  🎓 <b>CSE Undergraduate</b> at Green University of Bangladesh<br>
+  🎓 <b>CSE Undergraduate</b> at Green University of Bangladesh<br> 
   💻 Passionate about <b>Software Development</b> | 🛡️ Enthusiast of <b>Cybersecurity</b> | 🌟 Creator of <b>Impactful Tech</b>
 </p>
  
