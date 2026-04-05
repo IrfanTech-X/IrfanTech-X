@@ -35,7 +35,6 @@
 
 🎓 **Undergraduate Student in Computer Science and Engineering (CSE)** with a solid foundation in **Java Programming, Data Structures, and Algorithms**. Currently expanding expertise in **Cybersecurity** while strengthening analytical and problem-solving skills through competitive programming and hands-on projects.
 
----
 
 ### 👥 Leadership Experience
 
