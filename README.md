@@ -33,15 +33,22 @@
 
 ### 🧑‍💻 About Me
 
-**🎓 CSE Undergraduate** with a strong foundation in **Java, Data Structures & Algorithms**. Exploring **Cybersecurity** while sharpening problem-solving skills through competitive programming and real-world projects.
+🎓 **Undergraduate Student in Computer Science and Engineering (CSE)** with a solid foundation in **Java Programming, Data Structures, and Algorithms**. Currently expanding expertise in **Cybersecurity** while strengthening analytical and problem-solving skills through competitive programming and hands-on projects.
 
-**👥 Leadership Roles:**
-- **👨‍🏫 Student Mentor**, Green University of Bangladesh
-- **📋 Student Activity Coordinator**, IEEE Computer Society Student Branch Chapter GUB
-- **💰Former Treasurer**, BASIS Students' Forum GUB Chapter
+---
 
-**⚡ Passionate** about emerging technologies, team leadership, and delivering scalable solutions.  
-**🌱 Lifelong learner** thriving in collaborative environments.
+### 👥 Leadership Experience
+
+- 👨‍🏫 **Student Mentor**, Green University of Bangladesh  
+- 📋 **Student Activity Coordinator**, IEEE Computer Society Student Branch Chapter, GUB  
+- 💰 **Former Treasurer**, BASIS Students' Forum, GUB Chapter  
+
+---
+
+### ⚡ Interests & Strengths
+
+- Passionate about **Emerging Technologies**, **Team Leadership**, and **Scalable Solutions**  
+- 🌱 A dedicated **Lifelong Learner** who thrives in collaborative and dynamic environments
 
 
 ---
