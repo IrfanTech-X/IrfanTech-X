@@ -43,12 +43,7 @@
 - 📋 **Student Activity Coordinator**, IEEE Computer Society Student Branch Chapter, GUB  
 - 💰 **Former Treasurer**, BASIS Students' Forum, GUB Chapter  
 
----
-
-### ⚡ Interests & Strengths
-
-- Passionate about **Emerging Technologies**, **Team Leadership**, and **Scalable Solutions**  
-- 🌱 A dedicated **Lifelong Learner** who thrives in collaborative and dynamic environments
+Passionate about **Emerging Technologies**, **Team Leadership**, and **Scalable Solutions** . A dedicated **Lifelong Learner** who thrives in collaborative and dynamic environments
 
 
 ---
