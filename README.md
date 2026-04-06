@@ -76,13 +76,13 @@ Passionate about **Emerging Technologies**, **Team Leadership**, and **Scalable 
 
 ---
 
-### 🏆 Highlights & Involvement
+## 🏆 Highlights & Involvement
 
-- 🎯 Organized several seminars, webinars, Workshops and Olympiads, and actively engaged in various club activities  
-- 🌐 Participated in seminars on **AI**, **cybersecurity**, and **career dev**  
-- 💬 Motivated speaker and **peer mentor** at university forums  
-- 🧠 Constantly pushing boundaries with new ideas and teamwork
-- 🚀 Always eager to **learn, explore, and innovate** through teamwork and creative problem-solving  
+- 🎯 Organized and contributed to multiple **seminars, workshops, webinars, and Olympiads**, while actively participating in university club activities  
+- 🌐 Attended and engaged in seminars focused on **Artificial Intelligence, Cybersecurity, and Career Development**  
+- 💬 Served as a **motivational speaker and peer mentor**, supporting fellow students in academic and personal growth  
+- 🧠 Proactively explore innovative ideas and contribute effectively within **team-driven environments**  
+- 🚀 Strong enthusiasm for **continuous learning, exploration, and innovation** through collaboration and problem-solving
 
 ---
 
