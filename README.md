@@ -1,5 +1,5 @@
 <!-- ✨ Animated Header Banner -->
-<!-- <p align="center">
+<!-- <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Irfan%20Ferdous%20Siam&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
 </p>  -->
 
