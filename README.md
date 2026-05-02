@@ -53,7 +53,7 @@ Passionate about **Emerging Technologies**, **Team Leadership**, and **Scalable 
 `Java` &nbsp;|`Python` &nbsp;|&nbsp; `C` &nbsp;|&nbsp; `HTML` &nbsp;|&nbsp; `CSS` &nbsp;|&nbsp; `JavaScript` &nbsp;|&nbsp; `PHP` &nbsp;|&nbsp; `SQL` |&nbsp; `Shell Scripting` 
 
 **🧰 Tools & IDEs:**  
-`NetBeans` &nbsp;|&nbsp; `Visual Studio Code` &nbsp;|&nbsp; `CodeBlocks` &nbsp;|&nbsp; `phpMyAdmin` &nbsp;|&nbsp; `XAMPP` &nbsp;|&nbsp; `Git` &nbsp;|&nbsp; `Canva` &nbsp;|&nbsp; `CoLab`
+`NetBeans` &nbsp;|&nbsp; `Visual Studio Code` &nbsp;|&nbsp; `CodeBlocks` &nbsp;|&nbsp; `phpMyAdmin` &nbsp;|&nbsp; `XAMPP` &nbsp;|&nbsp; `Git` &nbsp;|&nbsp; `Canva` &nbsp;|&nbsp; `CoLab` &nbsp;|&nbsp; `Kaggle`
 
 **🗃️ Database:**  
 `MySQL`  
