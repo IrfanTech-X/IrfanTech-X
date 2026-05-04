@@ -49,6 +49,7 @@ Passionate about **Emerging Technologies**, **Team Leadership**, and **Scalable 
 
 ### 🛠️ Tech Stack  
 
+
 **💻 Languages:**  
 `Java` &nbsp;|`Python` &nbsp;|&nbsp; `C` &nbsp;|&nbsp; `HTML` &nbsp;|&nbsp; `CSS` &nbsp;|&nbsp; `JavaScript` &nbsp;|&nbsp; `PHP` &nbsp;|&nbsp; `SQL` |&nbsp; `Shell Scripting` 
 
