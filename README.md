@@ -35,7 +35,9 @@
 
 ### 🧑‍💻 About Me
 
-🎓 **Undergraduate Student in Computer Science and Engineering (CSE)** with a solid foundation in **Java Programming, Data Structures, and Algorithms**. Currently expanding expertise in **Cybersecurity** while strengthening analytical and problem-solving skills through competitive programming and hands-on projects.
+🎓 **Undergraduate Student in Computer Science and Engineering (CSE)** at Green University of Bangladesh with a strong interest in **Machine Learning, Artificial Intelligence, and Natural Language Processing (NLP).**
+
+🤖 Passionate about building **intelligent, data-driven applications** and applying ML and NLP techniques to real-world problems. Currently strengthening expertise in **Python, Machine Learning algorithms, NLP, data analysis, and applied AI** through hands-on projects, experimentation, and research.
 
 
 ### 👥 Leadership Experience
