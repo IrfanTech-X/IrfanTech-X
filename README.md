@@ -10,10 +10,12 @@
 
 
 <!-- 🎓 Intro -->
+
 <p align="center">
-  🎓 <b>CSE Undergraduate</b> at Green University of Bangladesh<br> 
-  💻 Passionate about <b>Software Development</b> | 🛡️ Enthusiast of <b>Cybersecurity</b> | 🌟 Creator of <b>Impactful Tech</b>
+  🎓 <b>CSE Undergraduate</b> at Green University of Bangladesh<br>
+  🤖 Passionate about <b>Machine Learning & Artificial Intelligence</b> | 🧠 Exploring <b>NLP & Applied AI</b> | 🚀 Building <b>Intelligent Solutions</b>
 </p>
+
  
 <!-- 🔗 Social Links & Stats -->
 <p align="center">
